@@ -1,0 +1,8 @@
+.app {
+    height: 80vh;
+  }
+
+  .App .Body{
+    margin-top:120px;
+    margin-bottom: 5px;
+}

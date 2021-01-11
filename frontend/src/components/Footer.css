@@ -1,0 +1,62 @@
+.FooterBody{
+    background-color:rgb(31, 29, 29);
+    color:rgb(192, 189, 189);  
+    width: 100%;
+    right: 0;
+    position:stick;
+    bottom:0;
+    left: 0; 
+    max-width: auto;
+    max-height: auto;
+    
+}
+    .footer-copyright
+{   height: 20px;
+    text-align: center;
+    color:white;
+    bottom: 0;
+}
+.FooterBody .icons a{
+    display: block;
+   color:white;
+    padding-bottom: 8px;
+}
+.FooterB.FooterBody  a:hover{
+    opacity: 0.5;
+}
+.FooterBody .Footer-NavLink
+{
+    text-decoration: none;
+    color:white;
+    font-size: 15px;
+}
+.FooterBody .links :hover{
+    text-decoration: none;
+    color:white;
+    opacity: 0.5;
+    
+}
+.FooterBody .btn-floating{
+    text-decoration: none;
+}
+.FooterBody .btn-floating:hover{
+    text-decoration: none;
+
+}
+.FooterBody .mb-4
+{
+    margin-bottom: -20px;
+}
+
+.FooterBody .mb-4-company
+{
+    margin-bottom: -20px;
+    padding-top: 20px;    
+}
+@media screen and (max-width: 960px) {
+    
+.FooterBody .mb-4
+{
+    margin-bottom: 0px;
+}
+}
